@@ -1,2 +1,2 @@
-# example
-This repos is a frame for my assignment
+# Template
+This repos is a template for my assignment
