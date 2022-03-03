@@ -7,4 +7,4 @@ using namespace std;
 
 
 
-#endif0 //!A_H
+#endif //!A_H
