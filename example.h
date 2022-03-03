@@ -1,8 +1,10 @@
 #pragma once
+#include <iostream>
+using namespace std;
 
-#ifndef _A_H_
-#define _A_H_
+#ifndef A_H
+#define A_H
 
 
 
-#endif _A_H_
+#endif0 //!A_H
