@@ -2,9 +2,9 @@
 #include <iostream>
 using namespace std;
 
-#ifndef A_H
-#define A_H
+#ifndef _H
+#define _H
 
 
 
-#endif //!A_H
+#endif 
